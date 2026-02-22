@@ -14,6 +14,6 @@ Turn keywords into publish-ready, SEO-optimized articles. Features multi-step ge
 
 #### Let's connect
 
-- 🌐 [dipflow.ai](https://dipflow.ai)
+- 🌐 [Dipflow](https://dipflow.ai)
 - 🎨 [Dribbble](https://dribbble.com/dipflow)
 - 💼 [WordPress](https://profiles.wordpress.org/dipflow/)
