@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, there 👋
 
-<!--
-**ivozah/ivozah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build products at the intersection of AI and content.
 
-Here are some ideas to get you started:
+#### Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **[Dipflow.ai](https://dipflow.ai)** - AI-powered content automation & programmatic SEO platform
+
+Turn keywords into publish-ready, SEO-optimized articles. Features multi-step generation workflows, brand voice customization, and direct WordPress publishing.
+
+#### Tech I work with
+
+`Next.js` `React` `TypeScript` `PHP` `WordPress` `Redis` `Docker` `OpenAI`
+
+#### Let's connect
+
+- 🌐 [dipflow.ai](https://dipflow.ai)
+- 🎨 [Dribbble](https://dribbble.com/dipflow)
+- 💼 [WordPress](https://profiles.wordpress.org/dipflow/)
